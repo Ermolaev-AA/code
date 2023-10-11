@@ -10,8 +10,7 @@
 //
 //
 
-const test = require('./test');
-console.log(test);
+console.log("test");
 
 const domain = new URL(window.location.href).hostname;
 const page = window.location.pathname.split('/').pop();
