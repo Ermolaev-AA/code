@@ -3,5 +3,5 @@
 //
 
 
-
-console.log("test");
+const gitTest = 123;
+console.log(gitTest);
